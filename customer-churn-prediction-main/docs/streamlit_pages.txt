@@ -1,0 +1,53 @@
+Streamlit Dashboard pages
+Page 1: Home
+
+Overview
+
+Project Description
+Dataset
+Final Metrics
+Technologies Used
+Page 2: Churn Prediction
+
+User Inputs:
+
+Gender
+Senior Citizen
+Partner
+Dependents
+Tenure
+Phone Service
+Paperless Billing
+Monthly Charges
+Internet Service
+Online Security
+Online Backup
+Device Protection
+Tech Support
+Streaming TV
+Streaming Movies
+Contract
+Payment Method
+
+Output:
+
+Churn Probability
+Risk Segment
+Retention Recommendation
+Page 3: Business Insights
+
+Display:
+
+Model Comparison
+Confusion Matrix
+SHAP Plot
+Risk Segmentation
+
+using images already present in:
+
+images/
+Page 4: About
+GitHub
+Kaggle
+Author
+Project Architecture

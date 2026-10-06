@@ -1,0 +1,70 @@
+🔮 Customer Churn Prediction
+Gender
+
+Male
+Senior Citizen
+
+No
+Partner
+
+Yes
+Paperless Billing
+
+No
+Dependents
+
+Yes
+Tenure (Months)
+
+72
+
+Monthly Charges
+
+50.00
+
+
+Contract
+
+Two year
+Phone Service
+
+Yes
+Multiple Lines
+
+No
+Internet Service
+
+DSL
+Online Security
+
+Yes
+Online Backup
+
+Yes
+Device Protection
+
+Yes
+Tech Support
+
+Yes
+Streaming TV
+
+No
+Streaming Movies
+
+No
+Payment Method
+
+Credit card (automatic)
+
+Churn Probability
+
+0.64%
+
+Risk Segment
+
+Low Risk
+
+Recommendation
+
+Monitor Customer
